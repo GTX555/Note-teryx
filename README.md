@@ -6,6 +6,7 @@ A simple website for creating and managing notes.
 
 - Create and edit notes
 - Keep your notes organized
+- all notes saved as md files
 
 ## Getting Started
 
